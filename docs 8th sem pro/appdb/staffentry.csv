@@ -1,3 +1,0 @@
-"sno","eEmail","empID","orgID","specialist","eName","qual","work_slots","work_days","fees","eDOB","sex","work_slot_num","tadd","padd","joining","telcode","telno","salary"
-1,"sharma@yahoo.com",1,1,"eye specialist","anima","MBBS","10:00-12:00","thu,fri",100,"12/12/1999","f",1,"bhilai","durg","13/12/2000",788,123123,1200
-2,"animasharma@abc.com",111,1,"eye specialist","anima","mbbs  ms","10:00-11:30,14:00-15:00","thu,mon",100,"15/03/1988","f",2,"durg","bhilai","12/12/2000",788,2277777,200

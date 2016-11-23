@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c50aa8-6941-4f47-a5ef-8b30d14219a3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Doc1.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MY REPORT11.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Major_Project_ReportTPO-HR reviewed2.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SNAPSHOT.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/DFD.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/Date.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/Homerentals.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/MY REPORT.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/Projectdatabase1.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/ROSHNI MAJOR REPORT.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/SNAPSHOT.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/makeUpdateAttributeFalse.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/dist/WebApplication1.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/makeUpdateAttributeFalse.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/WebApplication1/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/appdb/custinfo.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/appdb/inbox.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/appdb/org.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/appdb/slot.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/appdb/staffentry.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/coding.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/datetimepick.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/major report.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/projfront.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/report/Homerentals.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/report/Major.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/report/Manual for Thesis Writing.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/report/major doc.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs 8th sem pro/validation.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/classes/org/apache/jsp/fixApp_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/classes/org/apache/jsp/org_005fdelApp_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/classes/org/apache/jsp/reqdCustID_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/classes/org/apache/jsp/updateUserprofile_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/fixApp_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/fixApp_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/org_005fdelApp_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/org_005fdelApp_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/reqdCustID_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/reqdCustID_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/updateUserprofile_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/generated/src/org/apache/jsp/updateUserprofile_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/dist/finalpro.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/classes/org/apache/jsp/contacts_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/classes/org/apache/jsp/index_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/src/org/apache/jsp/contacts_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/src/org/apache/jsp/contacts_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/src/org/apache/jsp/index_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/generated/src/org/apache/jsp/index_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/about.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/contacts.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/events.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/Bluehills.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/images[90].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[88].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[89].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[90].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[91].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[93].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/images[97].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/dist/finalpro_1.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/about.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/contacts.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/events.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/Bluehills.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/images[90].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[88].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[89].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[90].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[91].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[93].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/images[97].jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/finalpro_1/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/generated/classes/org/apache/jsp/completeRegisteration_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/generated/src/org/apache/jsp/completeRegisteration_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/generated/src/org/apache/jsp/completeRegisteration_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/dist/mypro.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypro/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/logout.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/makeUpdateAttributeFalse.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/dist/proapp.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/cal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/logout.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/makeUpdateAttributeFalse.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servletUpdateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/updateEmpProfile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/updateStaffList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/proapp/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/WEB-INF/classes/NewServlet1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/dist/project1.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/updateorgRcds.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/project1/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/adminEnableStatus_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/appointment_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/changepwd_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/completeRegisteration_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/deleteAccount_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/deleteApp_005flist_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/fixApp_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/index_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/insertRegStaffDetail_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/namewiseApp_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/namewiselist_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/newUserSignup_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/notEnabled_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/orgRegComplete_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/org_005fchangeApp_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/regStaffDetail_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/repeatStaffEntry_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/specialList_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/staffTasks_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/updateUserprofile_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/classes/org/apache/jsp/view_005fempID_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/adminEnableStatus_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/adminEnableStatus_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/appointment_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/appointment_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/changepwd_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/changepwd_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/completeRegisteration_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/completeRegisteration_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/deleteAccount_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/deleteAccount_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/deleteApp_005flist_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/deleteApp_005flist_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/fixApp_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/fixApp_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/index_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/index_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/insertRegStaffDetail_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/insertRegStaffDetail_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/namewiseApp_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/namewiseApp_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/namewiselist_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/namewiselist_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/newUserSignup_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/newUserSignup_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/notEnabled_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/notEnabled_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/orgRegComplete_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/orgRegComplete_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/org_005fchangeApp_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/org_005fchangeApp_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/regStaffDetail_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/regStaffDetail_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/repeatStaffEntry_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/repeatStaffEntry_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/specialList_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/specialList_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/staffTasks_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/staffTasks_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/updateUserprofile_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/updateUserprofile_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/view_005fempID_jsp.class.smap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/generated/src/org/apache/jsp/view_005fempID_jsp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/J2EE.dpf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/WEB-INF/classes/.netbeans_automatic_build" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/build/web/view_empID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/dist/testpro.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/ant-deploy.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/build-impl.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/genfiles.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/private/private.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/private/private.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/project.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/nbproject/project.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/src/conf/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/WEB-INF/sun-web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/adminEnableStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/adminenabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/appAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/appointment.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/completeRegisteration.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/deleteAccount.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/deleteApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/fixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/blueback.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/doc1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/img01.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/images/img04.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/insertRegStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/insertUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/insertcompleteReg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/namewiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/namewiselist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/newUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/notEnabled.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/orgRegComplete.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_changeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_delApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_delApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_makeApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_makeApp_list.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/org_manageApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/organisation.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/orgfixApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/regStaffDetail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/repeatStaffEntry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/reqdCustID.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servletIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servletNewUserSignup.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servlet_changepwd.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servlet_deletelist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servlet_orgappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servlet_orgdelApplist.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servlet_staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servletappAvail.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/servletdeleteAcc.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/specialList.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/specialwiseApp.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/staffLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/staffTasks.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/updateUserprofile.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/viewClients.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/viewUserinbox.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testpro/web/view_empID.jsp" afterPath="" />
+    </list>
+    <ignored path="my projects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="my projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApplication/build.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my projects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c50aa8-6941-4f47-a5ef-8b30d14219a3" name="Default" comment="" />
+      <created>1479921097307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479921097307</updated>
+      <workItem from="1479921098560" duration="233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="233000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebApplication/build/generated/src/org/apache/jsp/contacts_jsp.class.smap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/build/generated/src/org/apache/jsp/contacts_jsp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/build/web/adminenabled.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/web/org_manageApp.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/build/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/web/updateorgRcds.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
