@@ -1,0 +1,4 @@
+"orgID","oEmail","orgPwd","orgName","no_of_slot","work_slots","work_days","staffCap","loc","catagory","regNo","status","telcode","telno","firstaccess"
+1,"acorp@yahoo.com","abc","abccorp",3,"10:00-11:30,12:00-13:30,14:00-15:00","thu,fri,mon",3,"bhilai","Hospital","123","enabled","788",2270984,"false"
+2,"xyz@gmail.com","xyz","",,"","",,"","","","","",,"true"
+3,"tty@gmail.com","tty","",,"","",,"","","","enabled","",,"true"

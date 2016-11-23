@@ -1,0 +1,84 @@
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function validateCreateAccount()
+{
+
+			if (document.mainForm.fname.value == "")
+				{
+					alert("Please enter employee's first name.");
+					document.mainForm.fname.focus();
+					return false;
+				}            
+             if (document.mainForm.empID.value == "")
+				{
+					alert("Please enter employee ID.");
+					document.mainForm.empID.focus();
+					return false;
+				}	
+			if (document.mainForm.salary.value == "")
+				{
+					alert("Please enter employee's salary.");
+					document.mainForm.salary.focus();
+					return false;
+				}
+			if (document.mainForm.fees.value =="")
+				{
+					alert("Please enter employee's fees per appointment.");
+					document.mainForm.fees.focus();
+					return false;
+				}            
+             if (document.mainForm.year.value == "")
+				{
+					alert("Please enter employee's date of birth.");
+					document.mainForm.year.focus();
+					return false;
+				}
+                if (document.mainForm.slot.value =="")
+				{
+					alert("Please enter employee's working slots.");
+					document.mainForm.slot.focus();
+					return false;
+				}
+              if (document.mainForm.joining.value =="")
+				{
+					alert("Please enter employee's date of joining.");
+					document.mainForm.joining.focus();
+					return false;
+				}
+              if (document.mainForm.telCode.value =="")
+				{
+					alert("Please enter employee's telephone code.");
+					document.mainForm.telCode.focus();
+					return false;
+				}
+              if (document.mainForm.telNo.value =="")
+				{
+					alert("Please enter employee's telephone number.");
+					document.mainForm.telNo.focus();
+					return false;
+				}
+             if (document.mainForm.eid.value =="")
+				{
+					alert("Please enter employee's email address.");
+					document.mainForm.eid.focus();
+					return false;
+				}
+		     if (document.mainForm.eid.value !="")
+            	{
+					checkEmail();
+				}
+			return true;
+	}
+	function checkEmail()
+	{
+		var email=document.getElementById("emailaddress");
+		var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+		if (!filter.test(email.value))
+			{
+				 alert("Please provide a valid email address");
+				email.focus;
+				return false;
+			}
+	}
+	-->
+</SCRIPT>
